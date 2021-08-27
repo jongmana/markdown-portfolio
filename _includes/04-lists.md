@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Show Me the Numbers
+* Don't make me think
